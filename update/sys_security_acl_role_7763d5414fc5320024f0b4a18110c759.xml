@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-18 07:43:57</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7763d5414fc5320024f0b4a18110c759</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_77265_snow_bkup_snow_db.x_77265_snow_bkup_snow_db_user</sys_name>
+        <sys_package display_value="SNOW bkup" source="x_77265_snow_bkup">337155854f85320024f0b4a18110c73f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SNOW bkup">337155854f85320024f0b4a18110c73f</sys_scope>
+        <sys_security_acl display_value="x_77265_snow_bkup_snow_db">3b63d5414fc5320024f0b4a18110c758</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7763d5414fc5320024f0b4a18110c759</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-18 07:43:57</sys_updated_on>
+        <sys_user_role display_value="x_77265_snow_bkup_snow_db_user" name="x_77265_snow_bkup_snow_db_user">136351854f85320024f0b4a18110c782</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

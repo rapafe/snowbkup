@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>SNOW DB</name>
+        <order/>
+        <roles>x_77265_snow_bkup_snow_db_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-02-18 07:43:56</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>376351854f85320024f0b4a18110c787</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SNOW DB</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SNOW bkup" source="x_77265_snow_bkup">337155854f85320024f0b4a18110c73f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="SNOW bkup">337155854f85320024f0b4a18110c73f</sys_scope>
+        <sys_update_name>sys_ui_application_376351854f85320024f0b4a18110c787</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-02-18 07:43:56</sys_updated_on>
+    </sys_ui_application>
+</record_update>

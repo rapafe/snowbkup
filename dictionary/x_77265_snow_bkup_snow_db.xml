@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="SNOW DB" max_length="40" name="x_77265_snow_bkup_snow_db" type="collection">
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
